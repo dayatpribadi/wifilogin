@@ -1,0 +1,48 @@
+
+@media only screen and (max-width: 1000px) { 
+    
+    .slider-bg {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    .slider-content {
+        position: relative;
+        top: 130px;
+        left: 0;
+        transform: none; 
+    }
+
+    section#home {
+        padding-bottom: 100px;
+    }
+    
+    body.dark button.navbar-toggler.collapsed {
+        color: #fff;
+    }
+
+}
+
+@media only screen and (max-width: 600px) { 
+
+
+    .nav {
+        padding: 8px 0;
+        
+    }
+    
+ 
+    .navbar-toggler:focus { 
+        box-shadow: none;
+    }
+    
+    .main-content {
+        overflow: hidden !important;
+    }
+    
+    
+
+}
