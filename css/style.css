@@ -1,9 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
 body {
     padding: 0px;
     margin: 0px;
     overflow-x: hidden;
     font-family: 'Poppins', sans-serif;
 }
+
+.judul-wifi {
+    font-family: 'Bree Serif', serif;
+}
+
 
 .h1,
 .h2,
